@@ -1,4 +1,48 @@
+<style>
+        .adj1{
+            color orange
+        }
+        .pn1{
+            color orange
+        }
+        .place1{
+            color orange
+        }
+        .num1{
+            color orange
+        }
+        .sillwrd1{
+            color orange
+        }
+        .verb1{
+            color orange
+        }
+        .adverb1{
+            color orange
+        }
+        .pn2{
+            color orange
+        }
+        .pn3{
+            color orange
+        }
+        .adj2{
+            color orange
+        }
 
+        .pn4{
+            color orange
+        }
+        .pn5{
+            color orange
+        }
+        .verbing1{
+            color orange
+        }
+        .bodyprt1{
+            color orange
+        }   
+</style>
 <body>
     <ul>
         <li>Adjective: <input type="text" id="adj1"></li>
@@ -43,3 +87,4 @@
     libButton.addEventListener("click", onButtonClick)
 </script>
 </body>
+       
