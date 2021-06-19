@@ -1,4 +1,4 @@
-# The-Origin-of-the-Ninja
+# The Origin of the Ninja
 <body>
     <ul>
         <li>Adjective: <input type="text" id="adj1"></li>
@@ -42,29 +42,4 @@
     }
     libButton.addEventListener("click", onButtonClick)
 </script>
-
-
-
-
-
-
-
-
-
-
-
 </body>
-
-
-        
-        
-        
-        
-       
-        
-        
-       
-       
-      bodyprt1
-
-
