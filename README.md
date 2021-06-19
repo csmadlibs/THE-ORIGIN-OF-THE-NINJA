@@ -22,7 +22,7 @@
     </p>
     <script>
     var libButton = document.getElementById("lib-button")
-    var onButtonClick function(){
+    var onButtonClick = function(){
         var story = document.getElementById("story")
         var adj1 = document.getElementById("adj1").value
         var pn1 = document.getElementById("pn1").value
