@@ -30,7 +30,6 @@
         #adj2{
             color orange
         }
-
         #pn4{
             color orange
         }
