@@ -1,3 +1,4 @@
+<head>
 <style>
         #adj1{
             color orange
@@ -43,6 +44,7 @@
             color orange
         }   
 </style>
+</head>
 <body>
     <ul>
         <li>Adjective: <input type="text" id="adj1"></li>
