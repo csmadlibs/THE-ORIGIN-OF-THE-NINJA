@@ -1,45 +1,45 @@
 <style>
-        .adj1{
+        #adj1{
             color orange
         }
-        .pn1{
+        #pn1{
             color orange
         }
-        .place1{
+        #place1{
             color orange
         }
-        .num1{
+        #num1{
             color orange
         }
-        .sillwrd1{
+       #sillwrd1{
             color orange
         }
-        .verb1{
+        #verb1{
             color orange
         }
-        .adverb1{
+        #adverb1{
             color orange
         }
-        .pn2{
+        #pn2{
             color orange
         }
-        .pn3{
+        #pn3{
             color orange
         }
-        .adj2{
+        #adj2{
             color orange
         }
 
-        .pn4{
+        #pn4{
             color orange
         }
-        .pn5{
+        #pn5{
             color orange
         }
-        .verbing1{
+        #verbing1{
             color orange
         }
-        .bodyprt1{
+        #bodyprt1{
             color orange
         }   
 </style>
