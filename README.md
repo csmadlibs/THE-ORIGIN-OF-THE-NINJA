@@ -1,47 +1,50 @@
 <head>
 <style>
         #adj1{
-            color orange
+            background-color orange
         }
         #pn1{
-            color orange
+            background-color orange
         }
         #place1{
-            color orange
+            background-color orange
         }
         #num1{
-            color orange
+            background-color orange
         }
        #sillwrd1{
-            color orange
+            background-color orange
         }
         #verb1{
-            color orange
+            background-color orange
         }
         #adverb1{
-            color orange
+            background-color orange
         }
         #pn2{
-            color orange
+            background-color orange
         }
         #pn3{
-            color orange
+            background-color orange
         }
         #adj2{
-            color orange
+            background-color orange
         }
         #pn4{
-            color orange
+            background-color orange
         }
         #pn5{
-            color orange
+            background-color orange
         }
         #verbing1{
-            color orange
+            background-color orange
         }
         #bodyprt1{
-            color orange
-        }   
+            background-color orange
+        } 
+        #story{
+            background-color = orange
+        }
 </style>
 </head>
 <body>
