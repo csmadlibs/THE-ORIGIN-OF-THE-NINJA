@@ -42,7 +42,7 @@
         var pn5 = document.getElementById("pn5").value
         var verbing1 = document.getElementById("verbing1").value
         var bodyprt1 = document.getElementById("bodyprt1").value
-        story.innerHTML = "Where do ninjas come from? Their beginnings are as mysterious and as " + <span class = added> adj1 </span> + " as those of any of the ancient " + <span class = added>pn1</span> + " of the 14th century. Historians claim the ninjas originated in (the) " + <span class = added>place1</span> + " around " + <span class = added>num1 + " year(s) ago. The word ninja comes from the Japanese word " + <span class = added>sillwrd1 + " which means to '" + <span class = added>verb1 + <span class = added>adverb1</span>  + ".' Espionage was their primary job- they acted as secret " + <span class = added>pn2</span> + ", spying on the bad guys. They were hired by royalty and other powerful " + <span class = added>pn3</span> + " to discover an enemy's " + <span class = added>adj2</span> + " weaknesses. They would sneak into opposing camps to steal passwords, battle plans, or " + <span class = added>pn4</span> + ". Known for their stealth movements, ninjas avoided detection by disguising themselves as " + <span class = added>pn5</span> + " and " + <span class = added>verbing1</span> + " quietly in the shadows. When it came to dealing with ninjas, people learned to have " + <span class = added>bodyprt1</span> +  " in the back of their heads!" 
+        story.innerHTML = "Where do ninjas come from? Their beginnings are as mysterious and as " + <span class = "added"> adj1 </span> + " as those of any of the ancient " + <span class = "added">pn1</span> + " of the 14th century. Historians claim the ninjas originated in (the) " + <span class = "added">place1</span> + " around " + <span class = "added">num1</span> + " year(s) ago. The word ninja comes from the Japanese word " + <span class = "added">sillwrd1</span> + " which means to '" + <span class = "added">verb1</span> + <span class = "added">adverb1</span>  + ".' Espionage was their primary job- they acted as secret " + <span class = "added">pn2</span> + ", spying on the bad guys. They were hired by royalty and other powerful " + <span class = "added">pn3</span> + " to discover an enemy's " + <span class = "added">adj2</span> + " weaknesses. They would sneak into opposing camps to steal passwords, battle plans, or " + <span class = "added">pn4</span> + ". Known for their stealth movements, ninjas avoided detection by disguising themselves as " + <span class = "added">pn5</span> + " and " + <span class = "added">verbing1</span> + " quietly in the shadows. When it came to dealing with ninjas, people learned to have " + <span class = "added">bodyprt1</span> +  " in the back of their heads!" 
         
         
     }
@@ -50,5 +50,3 @@
 </script>
 
 </body>
- <span class = added>
-</span>
