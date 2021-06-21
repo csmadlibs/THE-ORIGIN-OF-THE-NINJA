@@ -1,8 +1,3 @@
-<head>
-<style>
-       
-</style>
-</head>
 <body>
     <ul>
         <li>Adjective: <input type="text" id="adj1"></li>
@@ -42,7 +37,7 @@
         var pn5 = document.getElementById("pn5").value
         var verbing1 = document.getElementById("verbing1").value
         var bodyprt1 = document.getElementById("bodyprt1").value
-        story.innerHTML = "Where do ninjas come from? Their beginnings are as mysterious and as " + "added" adj1  + " as those of any of the ancient " + pn1 + " of the 14th century. Historians claim the ninjas originated in (the) " + place1 + " around " + num1 + " year(s) ago. The word ninja comes from the Japanese word " + sillwrd1 + " which means to '" + verb1 + adverb1  + ".' Espionage was their primary job- they acted as secret " + pn2 + ", spying on the bad guys. They were hired by royalty and other powerful " + pn3 + " to discover an enemy's " + adj2 + " weaknesses. They would sneak into opposing camps to steal passwords, battle plans, or " + pn4 + ". Known for their stealth movements, ninjas avoided detection by disguising themselves as " + pn5 + " and " + verbing1 + " quietly in the shadows. When it came to dealing with ninjas, people learned to have " + bodyprt1 +  " in the back of their heads!" 
+        story.innerHTML = "Where do ninjas come from? Their beginnings are as mysterious and as " + adj1  + " as those of any of the ancient " + pn1 + " of the 14th century. Historians claim the ninjas originated in (the) " + place1 + " around " + num1 + " year(s) ago. The word ninja comes from the Japanese word " + sillwrd1 + " which means to '" + verb1 + adverb1  + ".' Espionage was their primary job- they acted as secret " + pn2 + ", spying on the bad guys. They were hired by royalty and other powerful " + pn3 + " to discover an enemy's " + adj2 + " weaknesses. They would sneak into opposing camps to steal passwords, battle plans, or " + pn4 + ". Known for their stealth movements, ninjas avoided detection by disguising themselves as " + pn5 + " and " + verbing1 + " quietly in the shadows. When it came to dealing with ninjas, people learned to have " + bodyprt1 +  " in the back of their heads!" 
         }
     libButton.addEventListener("click", onButtonClick)
 </script>
