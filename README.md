@@ -1,3 +1,11 @@
+<style>
+    h1{
+        background-color: blue
+
+    }
+
+</style>
+
 <body>
     <ul>
         <li>Adjective: <input type="text" id="adj1"></li>
