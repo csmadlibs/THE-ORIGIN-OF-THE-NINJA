@@ -1,14 +1,6 @@
-<style>
-    h1{
-        background-color: blue
-
-    }
-
-</style>
 
 
 <body>
-    <h1>CsMadlibs</h1>
         <ul>
             <li>Adjective: <input type="text" id="adj1"></li>
             <li>Plural noun: <input type="text" id="pn1"></li>
@@ -51,5 +43,4 @@
         }
     libButton.addEventListener("click", onButtonClick)
 </script>
-
 </body>
