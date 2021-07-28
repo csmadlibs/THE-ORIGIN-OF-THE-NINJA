@@ -1,21 +1,29 @@
+<style>
+    h1{
+        background-color: blue
+
+    }
+
+</style>
 <body>
-    <ul>
-        <li>Adjective: <input type="text" id="adj1"></li>
-        <li>Plural noun: <input type="text" id="pn1"></li>
-        <li>A place: <input type="text" id="place1"></li>
-        <li>Number: <input type="text" id="num1"></li>
-        <li>Silly word: <input type="text" id="sillwrd1"></li>
-        <li>Verb: <input type="text" id="verb1"></li>
-        <li>Adverb: <input type="text" id="adverb1"></li>
-        <li>Plural noun: <input type="text" id="pn2"></li>
-        <li>Plural noun: <input type="text" id="pn3"></li>
-        <li>Adjective: <input type="text" id="adj2"></li>
-        <li>Plural noun: <input type="text" id="pn4"></li>
-        <li>Plural noun: <input type="text" id="pn5"></li>
-        <li>Verb ending in "ing": <input type="text" id="verbing1"></li>
-        <li>Part of the body (Plural): <input type="text" id="bodyprt1"></li>
-    </ul>
-    <button id="lib-button">Lib it!</button>
+    <h1>CsMadlibs</h1>
+        <ul>
+            <li>Adjective: <input type="text" id="adj1"></li>
+            <li>Plural noun: <input type="text" id="pn1"></li>
+            <li>A place: <input type="text" id="place1"></li>
+            <li>Number: <input type="text" id="num1"></li>
+            <li>Silly word: <input type="text" id="sillwrd1"></li>
+            <li>Verb: <input type="text" id="verb1"></li>
+            <li>Adverb: <input type="text" id="adverb1"></li>
+            <li>Plural noun: <input type="text" id="pn2"></li>
+            <li>Plural noun: <input type="text" id="pn3"></li>
+            <li>Adjective: <input type="text" id="adj2"></li>
+            <li>Plural noun: <input type="text" id="pn4"></li>
+            <li>Plural noun: <input type="text" id="pn5"></li>
+            <li>Verb ending in "ing": <input type="text" id="verbing1"></li>
+            <li>Part of the body (Plural): <input type="text" id="bodyprt1"></li>
+        </ul>
+<button id="lib-button">Lib it!</button>
  <p>Generated story: 
     <span id="story"></span>
     </p>
