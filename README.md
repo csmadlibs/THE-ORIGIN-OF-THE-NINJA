@@ -5,6 +5,7 @@
     }
 
 </style>
+
 <div class="_5p7lt5" style="background-color: rgb(10, 42, 102);"><nav aria-label="page header" class="_9bl3wi" role="navigation"><div class="_1ycdc3w"><div class="_1qhmdkk0"><div class="_1c8t70d"><button data-test-id="learn-menu-dropdown" aria-expanded="false" class="_1beo6qnl"><span data-learn-menu-trigger="true" data-test-id="learn-menu-button">Courses<span class="_ob2ihsb"><svg role="img" aria-hidden="true" focusable="false" width="10" height="10" viewBox="0 0 10 10"><path fill="currentColor" d="M5,6L0,0L10,0"></path></svg></span></span></button><div id="header-dropdown" class="_1vfqidr7"></div></div><div class="_1boekgo"><a data-hack-search-button-label="true" aria-label="Search for courses, skills, and videos" href="/search" class="_1xakt9tj" data-test-id="navbar-search-button" style="background-color: rgb(30, 59, 114);"><div class="_dhzffk"><span class="_gkt786u">Search</span><div class="_13cw2ryn"><svg role="img" aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 10 10"><path fill="currentColor" d="M7.73732912,6.67985439 C7.75204857,6.69246326 7.76639529,
     6.70573509 7.7803301,6.7196699 L9.65165045,8.59099025 C9.94454365,
     8.8838835 9.94454365,9.3587572 9.65165045,9.65165045 C9.3587572,
