@@ -5,10 +5,6 @@
     }
 
 </style>
-<<<<<<< HEAD
-=======
-
->>>>>>> 621108061a9abd48d16275ea33d834abd5251e0a
 <body>
     <a href = "https://csmadlibs.github.io">CsMadlibs</a>
         <ul>
