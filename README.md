@@ -10,7 +10,7 @@
 
 >>>>>>> 621108061a9abd48d16275ea33d834abd5251e0a
 <body>
-    <h1>CsMadlibs</h1>
+    <a href = "https://csmadlibs.github.io">CsMadlibs</a>
         <ul>
             <li>Adjective: <input type="text" id="adj1"></li>
             <li>Plural noun: <input type="text" id="pn1"></li>
