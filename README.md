@@ -1,5 +1,4 @@
 
-
 <body>
         <ul>
             <li>Adjective: <input type="text" id="adj1"></li>
